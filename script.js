@@ -1,26 +1,26 @@
 $(document).ready(function () {
-    // Array of logo image URLs (20 logos)
+    // Array of logo image URLs (replace these with your actual URLs)
     const logos = [
-        'logo1.png',
-        'logo2.png',
-        'logo3.png',
-        'logo4.png',
-        'logo5.png',
-        'logo6.png',
-        'logo7.png',
-        'logo8.png',
-        'logo9.png',
-        'logo10.png',
-        'logo11.png',
-        'logo12.png',
-        'logo13.png',
-        'logo14.png',
-        'logo15.png',
-        'logo16.png',
-        'logo17.png',
-        'logo18.png',
-        'logo19.png',
-        'logo20.png'
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(1).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(2).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(3).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(4).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(5).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(6).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(7).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(8).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(9).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(10).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(11).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(12).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(13).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(14).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(15).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(16).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(17).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(18).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(19).png?raw=true',
+        'https://github.com/avalen05/logo-animation/blob/main/pngegg%20(20).png?raw=true'
     ];
 
     // Function to shuffle array
