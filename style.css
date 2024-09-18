@@ -6,9 +6,9 @@
 }
 
 .logo-slot {
-    width: 100%;
-    height: 100px;
-    background-size: contain;
+    width: 150px; /* or any fixed width you want */
+    height: 150px; /* or any fixed height you want */
+    background-size: contain; /* ensure the image scales to fit */
     background-position: center;
     background-repeat: no-repeat;
     opacity: 0;
